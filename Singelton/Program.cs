@@ -10,12 +10,13 @@ namespace Singelton
     {
         static void Main(string[] args)
         {
-            // The code provided will print ‘Hello World’ to the console.
-            // Press Ctrl+F5 (or go to Debug > Start Without Debugging) to run your app.
-            Console.WriteLine("Hello World!");
-            Console.ReadKey();
+            Watch watch1 = Watch.GetInstance();
+            Watch watch2 = Watch.GetInstance();
+            Watch watch3 = Watch.GetInstance();
 
-            // Go to http://aka.ms/dotnet-get-started-console to continue learning how to build a console app! 
+            watch1.printTime();
+            watch2.printTime();
+            watch3.printTime();
         }
     }
 }
