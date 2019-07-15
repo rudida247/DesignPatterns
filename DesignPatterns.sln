@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FactoryMethod", "FactoryMet
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "State", "State\State.csproj", "{52474B7D-1219-4F7E-AC05-B57798B31144}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LoginModule", "LoginModule\LoginModule.csproj", "{7CDED6E6-E7ED-4B2C-9C95-7F8AA6F21551}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{52474B7D-1219-4F7E-AC05-B57798B31144}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{52474B7D-1219-4F7E-AC05-B57798B31144}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{52474B7D-1219-4F7E-AC05-B57798B31144}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7CDED6E6-E7ED-4B2C-9C95-7F8AA6F21551}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7CDED6E6-E7ED-4B2C-9C95-7F8AA6F21551}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7CDED6E6-E7ED-4B2C-9C95-7F8AA6F21551}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7CDED6E6-E7ED-4B2C-9C95-7F8AA6F21551}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
