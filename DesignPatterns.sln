@@ -21,6 +21,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Adapter", "Adapter\Adapter.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Memento", "Memento\Memento.csproj", "{C3136701-BF4E-4033-86A3-3CE9E24A5FFE}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TemplateMethod", "TemplateMethod\TemplateMethod.csproj", "{57EE79DC-2E9A-45C7-B945-F3D64E0974F1}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -63,6 +65,10 @@ Global
 		{C3136701-BF4E-4033-86A3-3CE9E24A5FFE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C3136701-BF4E-4033-86A3-3CE9E24A5FFE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C3136701-BF4E-4033-86A3-3CE9E24A5FFE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{57EE79DC-2E9A-45C7-B945-F3D64E0974F1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{57EE79DC-2E9A-45C7-B945-F3D64E0974F1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{57EE79DC-2E9A-45C7-B945-F3D64E0974F1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{57EE79DC-2E9A-45C7-B945-F3D64E0974F1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
